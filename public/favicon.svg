@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Dark background rounded square -->
+  <rect width="64" height="64" rx="12" fill="#1A1A2E"/>
+
+  <!-- "A" in bronze -->
+  <text
+    x="4" y="48"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="42"
+    font-weight="bold"
+    fill="#B5865A"
+  >A</text>
+
+  <!-- "S" in bronze, slightly offset for monogram feel -->
+  <text
+    x="32" y="48"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="42"
+    font-weight="bold"
+    fill="#B5865A"
+  >S</text>
+
+  <!-- Tiny decorative dot accent -->
+  <circle cx="57" cy="54" r="2.5" fill="#B5865A" opacity="0.6"/>
+</svg>
